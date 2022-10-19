@@ -8,7 +8,7 @@ table {
     box-shadow: 5px 5px 6px black;
 }
 
-.boton {
+button {
     border: solid 1px;
     border-radius: 4px;
     padding: 5px;
@@ -19,7 +19,7 @@ table {
     box-shadow: 2px 2px 3px black;
   }
 
-.boton:hover {
+button:hover {
     background-color: #f7476d; 
     color: white;
     cursor:pointer;
@@ -30,7 +30,7 @@ th, td {
     padding: 5px;
 }
 
-.cajat {
+.caja1 {
     border: solid 2px;
     border-radius: 3px;
     border: none;
@@ -42,7 +42,7 @@ th, td {
     font-family:Impact;
     box-shadow: 2px 2px 3px black;
 }
-.cajat1{
+.cajat2{
     
     border : none;
     height: 15px;
